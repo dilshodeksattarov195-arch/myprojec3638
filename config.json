@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencave",
+        "uuid": 36238118,
+        "checksum": "bfg7n8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
